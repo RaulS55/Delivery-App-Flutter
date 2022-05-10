@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "name": "Tacos",
+        "des": "El taco es una preparación culinaria muy popular de México que consiste en una tortilla, generalmente de maíz, que se dobla para contener dentro diversos ingredientes y algún tipo de salsa",
+        "price": 9.99,
+        "rate": 4.5,
+        "preview": "https://as2.ftcdn.net/v2/jpg/01/13/63/63/1000_F_113636348_FPQO3sUu2ZA3HR9zOzM4lnSiWEdsoqwu.jpg"
+    },
+    {
+        "id":2,
+        "name": "Burritos",
+        "des": "El taco es una preparación culinaria muy popular de México que consiste en una tortilla, generalmente de maíz, que se dobla para contener dentro diversos ingredientes y algún tipo de salsa",
+        "price": 15,
+        "rate": 4,
+        "preview": "https://as1.ftcdn.net/v2/jpg/02/05/04/02/1000_F_205040245_k37GsQhvSg0yhM5zmqf3NWDtACBgCEpm.jpg"
+    },
+    {
+        "id":3,
+        "name": "Guacamole",
+        "des": "El taco es una preparación culinaria muy popular de México que consiste en una tortilla, generalmente de maíz, que se dobla para contener dentro diversos ingredientes y algún tipo de salsa",
+        "price": 9.99,
+        "rate": 3.9,
+        "preview": "https://as1.ftcdn.net/v2/jpg/01/08/74/94/1000_F_108749462_n5gFesQla84wyfXTDUEG8zNochvWQXx4.jpg"
+    },
+    {
+        "id":4,
+        "name": "Nachos",
+        "des": "El taco es una preparación culinaria muy popular de México que consiste en una tortilla, generalmente de maíz, que se dobla para contener dentro diversos ingredientes y algún tipo de salsa",
+        "price": 8.99,
+        "rate": null,
+        "preview": "https://img.freepik.com/foto-gratis/junta-salsa-queso-patatas-fritas-queso-perejil-mesa-textura-gris_185193-53802.jpg?w=900"
+    }
+]
